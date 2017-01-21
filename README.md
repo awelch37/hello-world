@@ -1,3 +1,3 @@
 # hello-world
 My starting repository after joining GitHub
-I am just leaning about branches and adding thoughts here
+I am just learning about branches and adding thoughts here
